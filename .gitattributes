@@ -98,11 +98,7 @@ p  {
 
 <!-- Add font awesome icons -->
 <a href="https://www.twitter.com/84ltc" class="fa fa-twitter"></a>
-<a href="https://www.youtube.com" class="fa fa-youtube"></a>
-<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-<a href="https://www.reddit.com/u/joshmountain" class="fa fa-reddit"></a>
-<a href="https://www." class="fa fa-rss"></a>
-      
+
 </body>
 </html> 
 
@@ -188,104 +184,6 @@ div.desc {
 </style>
 </head>
 <body>
-
-<div class="gallery">
-  <a target="_blank" href="Portraits">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Portraits/P1030716.jpg" alt="Portraits" width="600" height="400">
-  </a>
-  <div class="desc">Portraits</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Shanghai">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Shanghai/P1030703.jpg" alt="Shanghai" width="600" height="400">
-  </a>
-  <div class="desc">Shanghai</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="weddings">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Wedding/P1030512.jpg"Weddings" width="600" height="400">
-  </a>
-  <div class="desc">Weddings</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="GoodFriday">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Good Friday 2017/P1030390.jpg" alt="Good Friday" width="600" height="400">
-  </a>
-  <div class="desc">Good Friday</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="flowers">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Flowers/P1000836.jpg" alt="flowers" width="600" height="400">
-  </a>
-  <div class="desc">flowers</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Animals">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Animals/P1030185.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Animals</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Switzerland">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Switzerland/Båsel Bike.jpg" alt="Switzerland" width="600" height="400">
-  </a>
-  <div class="desc">Switzerland</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Abstract">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Abstract/P1010492.jpg" alt="Abstract" width="600" height="400">
-  </a>
-  <div class="desc">Abstract</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Sunsets">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Sunsets/P1020998.jpg" alt="Sunsets" width="600" height="400">
-  </a>
-  <div class="desc">Sunsets</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="WinterMorning">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Winter Morning/P1020510.jpg" alt="Sunsets" width="600" height="400">
-  </a>
-  <div class="desc">Winter Morning</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="Westbay">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Westbay/Harbour Boat.jpg" alt="Westbay" width="600" height="400">
-  </a>
-  <div class="desc">Westbay</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="colourrun">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Colour Run/Colour Run.jpg" alt="Colour Run" width="600" height="400">
-  </a>
-  <div class="desc">Colour Run</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="NYC">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Photos/B&W Positives/NYC 35mm 3200dpi/0000Export/NYC025.jpg" alt="NYC" width="600" height="400">
-  </a>
-  <div class="desc">NYC</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="canada">
-    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Photos/Canada/Canada.00.jpg" alt="Canada" width="600" height="400">
-  </a>
-  <div class="desc">Canada</div>
-</div>
 
 <div class="btcwdgt-price" bw-cur="gbp"></div>
 
